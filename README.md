@@ -1,6 +1,6 @@
-# Olá! 👋 Eu sou [Wendler ]
+# Olá! 👋 Seja bem vindos, me chamo Wendler 
 
-**Desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios!**
+**Desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios e habilidades!**
 
 ---
 
@@ -105,7 +105,7 @@
 
 - 🎯 **Objetivo atual:** Contribuir para projetos open source
 - 📖 **Lendo:** Clean Code - Robert C. Martin
-- 🎮 **Hobby:** Gaming e desenvolvimento de jogos indie
+- 🎮 **Hobby:** Trilha, Filmagem Drone, Fotográfia
 - ☕ **Combustível:** Café (muito café!)
 - 🌍 **Idiomas:** Português (nativo), English (C1), Deutsch (A1), Русский (A1)
 
@@ -114,7 +114,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=415888&style=flat-square&color=blue" alt="Profile views" />
   
-  ### ⭐ "O código é como humor. Quando você tem que explicá-lo, é ruim." - Cory House
+  ### ⭐ "Instead of trying to produce a machine to think like a man, we should try to produce a machine to think like a child" - Alan Turing
   
   **Obrigado pela visita! 😊**
 </div>
